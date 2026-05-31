@@ -2,7 +2,7 @@
 
 # Talha Khalid
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=760&lines=Versatile+Programmer;Full-Stack+Developer;Build+it.+Ship+it.+Keep+it+alive.;React+%E2%80%A2+Python+%E2%80%A2+Django+%E2%80%A2+C%2B%2B)](https://github.com/hogalalla32)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=800&color=FFFFFF&background=000000&center=true&vCenter=true&width=760&lines=Fast+Paced+Programmer;Full-Stack+Developer;Build+it.+Ship+it.+Keep+it+alive.;React+%E2%80%A2+Python+%E2%80%A2+Django+%E2%80%A2+C%2B%2B)](https://github.com/hogalalla32)
 
 Backend • Frontend • Scalability • Optimizations
 
